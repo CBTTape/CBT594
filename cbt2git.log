@@ -1,0 +1,48 @@
+2023-04-02 15:19:53.340243 - Initialized conversion of CBT594
+2023-04-02 15:19:53.610968 - Received CBT.V504.FILE594.PDS from FILE594.XMI 
+2023-04-02 15:19:53.613610 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/$$$#DATE
+2023-04-02 15:19:53.614927 - Found $$$NOTE.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/$$$NOTE
+2023-04-02 15:19:53.615848 - Found $$DISCLM.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/$$DISCLM
+2023-04-02 15:19:53.617050 - Found $$HELP.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/$$HELP
+2023-04-02 15:19:53.618037 - Found $$INTRO.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/$$INTRO
+2023-04-02 15:19:53.618920 - Found $PDSLOAD.jcl (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/$PDSLOAD
+2023-04-02 15:19:53.619959 - Found @FILE594.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/@FILE594
+2023-04-02 15:19:53.621092 - Found HELPTEXT.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/HELPTEXT
+2023-04-02 15:19:53.621102 - Found ISRML000.bin containing application/octet-stream, moved to PDS/ISRML000
+2023-04-02 15:19:53.622215 - Found ISRSFSPR.bin containing application/octet-stream, moved to PDS/ISRSFSPR
+2023-04-02 15:19:53.623227 - Found ISRUDA2S.bin containing application/octet-stream, moved to PDS/ISRUDA2S
+2023-04-02 15:19:53.624113 - Found ISRUMC1.bin containing application/octet-stream, moved to PDS/ISRUMC1
+2023-04-02 15:19:53.625976 - Found ISRUMC2A.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/ISRUMC2A
+2023-04-02 15:19:53.625986 - Found ISRUMC2B.bin containing application/octet-stream, moved to PDS/ISRUMC2B
+2023-04-02 15:19:53.628113 - Found UTCDSM5.rexx (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTCDSM5
+2023-04-02 15:19:53.629170 - Found UTHDSM5.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTHDSM5
+2023-04-02 15:19:53.630113 - Found UTMDD01.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTMDD01
+2023-04-02 15:19:53.631066 - Found UTMDD02.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTMDD02
+2023-04-02 15:19:53.631975 - Found UTMDD03.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTMDD03
+2023-04-02 15:19:53.632890 - Found UTMDD04.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTMDD04
+2023-04-02 15:19:53.633801 - Found UTMDD05.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTMDD05
+2023-04-02 15:19:53.634758 - Found UTMDD09.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTMDD09
+2023-04-02 15:19:53.635750 - Found UTPDSM5.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5
+2023-04-02 15:19:53.637109 - Found UTPDSM5A.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5A
+2023-04-02 15:19:53.638138 - Found UTPDSM5C.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5C
+2023-04-02 15:19:53.638151 - Found UTPDSM5D.bin containing application/octet-stream, moved to PDS/UTPDSM5D
+2023-04-02 15:19:53.640083 - Found UTPDSM5E.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5E
+2023-04-02 15:19:53.641008 - Found UTPDSM5F.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5F
+2023-04-02 15:19:53.641947 - Found UTPDSM5G.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5G
+2023-04-02 15:19:53.642987 - Found UTPDSM5H.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5H
+2023-04-02 15:19:53.644070 - Found UTPDSM5I.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5I
+2023-04-02 15:19:53.645027 - Found UTPDSM5K.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5K
+2023-04-02 15:19:53.645969 - Found UTPDSM5L.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5L
+2023-04-02 15:19:53.646898 - Found UTPDSM5M.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5M
+2023-04-02 15:19:53.648189 - Found UTPDSM5N.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5N
+2023-04-02 15:19:53.649446 - Found UTPDSM5W.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5W
+2023-04-02 15:19:53.650399 - Found UTPDSM5X.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5X
+2023-04-02 15:19:53.651364 - Found UTPDSM5Z.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPDSM5Z
+2023-04-02 15:19:53.652301 - Found UTPHCMD.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPHCMD
+2023-04-02 15:19:53.653232 - Found UTPHCMD1.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTPHCMD1
+2023-04-02 15:19:53.654255 - Found UTSJOB.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTSJOB
+2023-04-02 15:19:53.655254 - Found UTSTSO.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTSTSO
+2023-04-02 15:19:53.656222 - Found UTSTSO01.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/UTSTSO01
+2023-04-02 15:19:53.656232 - Found UTTEMPL.bin containing application/octet-stream, moved to PDS/UTTEMPL
+2023-04-02 15:19:53.657143 - Found UTTHELP.bin containing application/octet-stream, moved to PDS/UTTHELP
+2023-04-02 15:19:53.659003 - Found ZTEMPLAT.txt (text/plain) in CBT.V504.FILE594.PDS, moved to PDS/ZTEMPLAT
